@@ -4,4 +4,4 @@
 [submodule "ecosys"]
 	path = ecosys
 	url = https://github.com/tigergraph/ecosys.git
-	branch = master
+	branch = ldbc
